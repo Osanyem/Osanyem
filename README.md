@@ -2,7 +2,7 @@
 - 👀 I’m interested in web systems development and mobile software development.
 - 🌱 I’m currently learning Swift and IOS app development.
 - 📫 How to reach me:
--     Email: oosadebe@ryerson.ca
+-     Email: oosadebe@rtorontomu.ca
 -     LinkedIn: https://www.linkedin.com/in/osanyemosadebe/
 
 
