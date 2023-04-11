@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development.
 - 🌱 I’m currently learning Elixir and IOS app development.
 - 📫 How to reach me:
--     Email: oosadebe@rtorontomu.ca
+-     Email: oosadebe@torontomu.ca
 -     LinkedIn: https://www.linkedin.com/in/osanyemosadebe/
 
 
